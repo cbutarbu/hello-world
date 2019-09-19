@@ -1,0 +1,32 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Consolas", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: #000000;
+  color: #FFFFFF;
+  
+}
+
+h1 {
+  color: #FFFFFF;
+  border: 2px double white;
+  background-image: url("https://cdn.glitch.com/b981739d-18d6-40ae-bfe3-88bacefb5fef%2Fjup.jpg?1548010466853");
+  margin-right: 850px;
+  padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  background-attachment: fixed;
+  font-family: Consolas, helvetica, arial, sans-serif;
+  
+  
+}
+
+canvas {
+ border: 2px double white;
+ background-image: url("https://cdn.glitch.com/b981739d-18d6-40ae-bfe3-88bacefb5fef%2Fspace2.jpg?1547961047264");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
